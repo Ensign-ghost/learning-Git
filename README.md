@@ -1,3 +1,4 @@
 # learning-Git
-This is my first Git Repository
-Author: DIVYANSHU SINGH
+This is my first Git Repository. 
+<br>
+<b>Author: DIVYANSHU SINGH</b>
